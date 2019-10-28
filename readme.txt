@@ -7,3 +7,5 @@ use github
 second 
 Git is a version system.
 Git is free software.
+S-Git is a distribute version control system.
+S-Git is a free software.
