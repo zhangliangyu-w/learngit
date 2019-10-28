@@ -9,3 +9,6 @@ Git is a version system.
 Git is free software.
 S-Git is a distribute version control system.
 S-Git is a free software.
+
+S-Git is a distribute version control system.
+S-Git is free distribute under the GPL.
