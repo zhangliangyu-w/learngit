@@ -16,3 +16,4 @@ S-Git has a mutable index called stage.
 S-Git tracks changes of files.
 S-Creating a new branch is quick.
 S-Creating a new branch is quiick & simple.
+S-Creating a new branch is quick AND simple.
